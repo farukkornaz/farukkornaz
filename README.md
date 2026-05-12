@@ -179,7 +179,7 @@ odak_alanları:
 </tr>
 </table>
 
-> 🔗 **Tüm projelerim için:** [repositories sayfama göz atın →]([GitHub_Repos_URL])
+> 🔗 **Tüm projelerim için:** [repositories sayfama göz atın →](https://github.com/farukkornaz?tab=repositories)
 
 ---
 
