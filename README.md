@@ -188,11 +188,11 @@ odak_alanları:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=farukkornaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[farukkornaz]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukkornaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[farukkornaz]&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farukkornaz&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="700"/>
 
 </div>
 
@@ -238,6 +238,6 @@ Proje işbirlikleri, freelance çalışmalar veya sadece veri hakkında sohbet e
 
 <sub>⭐ Projelerimi beğendiyseniz repo'lara yıldız bırakmayı unutmayın!</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=[farukkornaz]&color=a78bfa&style=flat-square&label=Profil+Görüntüleme)
+![Profile Views](https://komarev.com/ghpvc/?username=farukkornaz&color=a78bfa&style=flat-square&label=Profil+Görüntüleme)
 
 </div>
