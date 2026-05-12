@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4c1d95&height=220&section=header&text=FarukKORNAZ&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst&descSize=18&descAlignY=55&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4c1d95&height=220&section=header&text=Faruk Kornaz&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst&descSize=18&descAlignY=55&descColor=a78bfa" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Turning+Raw+Data+Into+Actionable+Insights+%F0%9F%93%8A;Building+Dashboards+That+Tell+Stories+%F0%9F%93%88)](https://git.io/typing-svg)
