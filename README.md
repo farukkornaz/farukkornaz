@@ -25,7 +25,7 @@
 ad: "Faruk kornaz"
 rol: "Data Analyst"
 lokasyon: "Istanbul, Turkiye"
-deneyim: "3 yıl"
+deneyim: "2025-03-03 | datetime.now().strftime("%Y-%m-%d")"
 eğitim: "Selçuk Üniverssitesi — Bilgisayar Müh."
 odak_alanları:
   - Veri Analizi & Görselleştirme
